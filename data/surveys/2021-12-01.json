@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "generator": "overpass-ide",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+    "timestamp": "2021-12-09T08:16:10Z",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "way/202906588",
+                "addr:city": "Singapore",
+                "addr:housenumber": "484",
+                "addr:postcode": "750484",
+                "addr:street": "Admiralty Link",
+                "building": "yes",
+                "name": "484"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            103.8156614,
+                            1.4568293
+                        ],
+                        [
+                            103.8158062,
+                            1.4570385
+                        ],
+                        [
+                            103.8155273,
+                            1.4572315
+                        ],
+                        [
+                            103.8150713,
+                            1.457194
+                        ],
+                        [
+                            103.814846,
+                            1.4569473
+                        ],
+                        [
+                            103.8150284,
+                            1.4567918
+                        ],
+                        [
+                            103.8151625,
+                            1.4569366
+                        ],
+                        [
+                            103.815479,
+                            1.456958
+                        ],
+                        [
+                            103.8156614,
+                            1.4568293
+                        ]
+                    ]
+                ]
+            },
+            "id": "way/202906588"
+        }
+    ]
+}
